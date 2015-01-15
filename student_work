@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Student Work </title>
+<link rel="stylesheet" type="text/css" href="main_style.css">
+</head>
+<body>
+
+<div id="sideBar">
+<nav>
+<a href="index.html">Application Letter</a> <br/><br/>
+<a href="student_work.html">Student Work </a> <br/> <br/>
+<a href="portfolio.html">Portfolio </a> <br/><br/>
+<a href="resume.html"> Resume </a> <br/><br/>
+<a href="reference_letters.html"> Reference </a> <br/><br/>
+<a href="syllabus.html"> Example Syllabi </a> <br/><br/>
+</nav>
+</div>
+
+
+<div id="centerContet" style="width:8100px">
+	<div id="containerStudent">
+		<p style="text-align:center">
+		<img src="students/Ting_yen_home.png" width="900px">
+		</p>
+		<p class="explain">
+		<b> Student: Ting Yan Khor </b><br/>
+		<b> Class: WIRED 1 </b><br/>
+		A diary website that is dedicated to her time in Chicago. <br/>
+		The diary is divided into four parts.  Three are seen easily in the image: coffee, food, and places. <br/>
+		The fourth is when you click on the names. <br/>
+		<u><a href="students/~tkhor/index.html" target="_blank">Rehosted here </a></u><br/>
+		</p>
+	</div>
+	<div id="containerStudent" style="left:900px"> 
+		<p style="text-align:center">
+		<img src="students/grace_home.png" width="900px">
+		</p>
+		<p class="explain">
+		<b> Student: Grace Young Roh </b> <br/>
+		<b> Class: WIRED 1 </b><br/>
+		A website dedicated to confession of friends. <br/>
+		Done for the web-art assignment. <br/>
+		<u><a href="students/~groh1/ToBeHonest" target="_blank">Rehosted here </a></u> <br/>
+		</p>
+	</div> 
+	<div id="containerStudent" style="left:1800px">
+		<p style="text-align:center">
+		<img src="students/schaya_hands.png" width="900px">
+		</p>
+		<p class="explain">
+		<b> Student: Sachya Kuz Lusk </b></br>
+		<b> Class: WIRED 1 </b></br>
+		A website dedicated to past relationships </br>
+		Made for the web-art assignment. <br/>
+		Inspired by "My Boyfriend Came Back from the War" <br/>
+		<u><a href="students/~elusk/index.html" target=_blank">Rehosted here </a></u> <br/>
+		</p>
+	</div>
+	<div id="containerStudent" style="left:2700px">
+		<p style="text-align:center">
+		<img src="students/mia_hopkins_home.png" width="900px">
+		</p>
+		<p class="explain">
+		<b> Student: Mia Hopkins </b></br>
+		<b> Class: WIRED 1 </b></br>
+		A website dedicated to people that got free food at the olive garden. <br/>
+		Made for the web-art assignment. <br/>
+		Contains sounds, animated divs, glitch work, and photoshop collages. <br/>
+		<u><a href="students/~mhopki2/index.html" target="_blank">Rehosted here </a></u> </br>
+		</p>
+	</div>
+	<div id="containerStudent" style="left:3600px;">
+		<p style="text-align:center">
+		<img src="students/annie_zweick.png" width="900px">
+		</p>
+		<p class="explain">
+		<b> Student: Annie Zweick </b></br>
+		<b> Class: WIRED 1 </b></br>
+		Made for the web-art assignment. <br/>
+		An ongoing journey through digitally drawn doors. <br/>
+		<u><a href="students/~azwick/index.html" target="_blank">Rehosted here.</a></u><br/>
+		</p>
+	</div> 
+	<div id="containerStudent" style="left:4500px;">
+		<p style="text-align:center">
+		<img src="students/colorgrid_excerpt.jpg" width="900px">
+		</p>
+		<p class="explain">
+		<b> Student: Jessica Johnson </b></br>
+		<b> Class: WIRED 1</b><br/>
+		Made for self portrait assignment <br/>
+		<u><a href="students/colorgrid.jpg" target="_blank"> Full image </a></u><br/>
+		</p>
+	</div>
+	<div id="containerStudent" style="left:5400px;">
+		<p style="text-align:center">
+		<img src="students/papercut_excerpt.png" width="900px">
+		</p>
+		<p class="explain">
+		<b> Student: Ravina Puri </b><br/>
+		<b> Class: WIRED 1 </b><br/>
+		Made for self portrait assignment <br/>
+		Student made drawing, traced in Illustrator, cut with a CNC paper cutter. <br/>
+		<u><a href="students/papercut.png" target="_blank"> Full image </a></u><br/>
+	</p>
+	</div>
+	<div id="containerStudent" style="left:6300px;">
+		<p style="text-align:center">
+		<img src="students/Van_gogh_Cover_excerpt.png" width="900px">
+		</p>
+		<p class="explain">
+		<b> Student: Ting Yan Kohr </b><br/>
+		<b> Class :WIRED 1</b><br/>
+		The assignment was to recreate in a collage a version of a painting <br/>
+		The student took Starry Night by Vincent Van Gogh and made a collage about her move from Singapore to Chicago. <br/>
+		</p>
+	</div>
+	<div id="containerStudent" style="left:7200px;">
+		<p style="text-align:center">
+		<img src="students/syrian_girl.jpg" width="500px">
+		</p>
+		<p class="explain">
+		<b> Student: Mackenzie Britt </b><br/>
+		<b> Class: WIRED 1 </b><br/>
+		The assignment was to find a tutorial for Photoshop and use it interestingly.<br/>
+		The student took the video to raise awareness to the Syrian refugee situation 
+		and filled the first frame with the images of the last frame. <br/>
+		</p>
+	</div>
+</div>
+
+
+</body>
+</html>

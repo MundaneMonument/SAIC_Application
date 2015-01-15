@@ -1,2 +1,2 @@
-# SAIC_Application
-Dedicated to apply to SAIC ECP
+# Oberlin_Application
+Application website to Oberlin College
